@@ -6,7 +6,7 @@
 
 ## 개발환경
 - react: 18.2.0
-- typescript : 4.9.5
+- typescript : 4.4.2
 - node : 18.18.0
 <br/><br/><br/>
 
