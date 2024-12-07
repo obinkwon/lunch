@@ -6,8 +6,9 @@
 
 ## 개발환경
 - react: 18.2.0
-- typescript : 4.9.5
+- typescript : 4.4.2
 - node : 18.18.0
+- json-server : 0.17.0
 <br/><br/><br/>
 
 ## 실행방법
@@ -15,6 +16,11 @@
 - $yarn start
 <br/><br/><br/>
 
+## json-server 패키지 설치
+<blockquote data-ke-style="style2">
+<p data-ke-size="size16">npm install -g json-server@0.17.0</p>
+</blockquote>
+<br/><br/><br/>
 
 ## 수정내역
 
